@@ -39,23 +39,25 @@ body {
     flex-direction: column;
     justify-content: center;
     overflow-x: hidden; overflow-y: auto;
-    
+    border-radius: 20px;
      
   }
 
   .menu a {
     
     text-decoration: none;
-    color: white;
+    color: black;
     border-bottom: 1px solid white;
     font-size: 1.5rem;
     padding: 0.5rem;
+    
   
 
   }
   
   .menu a:first-child {
     border-top: 1px solid white;
+    
   }
 
   #chkBoutonBurger:checked~.global {
