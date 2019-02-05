@@ -17,7 +17,7 @@ body {
   }
 
   .boutonBurger {
-    background: linear-gradient(to bottom, #E84545 0%, #E84545 20%, transparent 20%, transparent 40%, #E84545 40%, #E84545 60%, transparent 60%, transparent 80%, #E84545 80%, #E84545 100%);
+    background: linear-gradient(to bottom, rgb(90, 30, 30) 0%,  rgb(90, 30, 30) 20%, transparent 20%, transparent 40%,  rgb(90, 30, 30) 40%,  rgb(90, 30, 30) 60%, transparent 60%, transparent 80%,  rgb(90, 30, 30) 80%,  rgb(90, 30, 30) 100%);
     height: 48px;
     width: 48px;
     margin: 1%;
@@ -48,7 +48,7 @@ body {
     text-decoration: none;
     color: black;
     border-bottom: 1px solid white;
-    font-size: 1.5rem;
+    font-size: 1rem;
     padding: 0.5rem;
     
   

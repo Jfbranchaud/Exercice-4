@@ -288,8 +288,8 @@ th {
 }
 
 .boutonBurger {
-  background: -webkit-gradient(linear, left top, left bottom, from(#E84545), color-stop(20%, #E84545), color-stop(20%, transparent), color-stop(40%, transparent), color-stop(40%, #E84545), color-stop(60%, #E84545), color-stop(60%, transparent), color-stop(80%, transparent), color-stop(80%, #E84545), to(#E84545));
-  background: linear-gradient(to bottom, #E84545 0%, #E84545 20%, transparent 20%, transparent 40%, #E84545 40%, #E84545 60%, transparent 60%, transparent 80%, #E84545 80%, #E84545 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#5a1e1e), color-stop(20%, #5a1e1e), color-stop(20%, transparent), color-stop(40%, transparent), color-stop(40%, #5a1e1e), color-stop(60%, #5a1e1e), color-stop(60%, transparent), color-stop(80%, transparent), color-stop(80%, #5a1e1e), to(#5a1e1e));
+  background: linear-gradient(to bottom, #5a1e1e 0%, #5a1e1e 20%, transparent 20%, transparent 40%, #5a1e1e 40%, #5a1e1e 60%, transparent 60%, transparent 80%, #5a1e1e 80%, #5a1e1e 100%);
   height: 48px;
   width: 48px;
   margin: 1%;
@@ -332,7 +332,7 @@ th {
   text-decoration: none;
   color: black;
   border-bottom: 1px solid white;
-  font-size: 1.5rem;
+  font-size: 1rem;
   padding: 0.5rem;
 }
 
